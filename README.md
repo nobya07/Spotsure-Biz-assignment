@@ -281,30 +281,6 @@ gajendra.online
 - Custom Domain
 - Production Ready Infrastructure
 
----
-
-# 📖 Future Improvements
-
-- HTTPS using AWS Certificate Manager (ACM)
-- Docker Image Storage in Amazon ECR
-- Monitoring with CloudWatch
-- Infrastructure as Code using Terraform
-- Logging with CloudWatch Logs
-- Kubernetes (Amazon EKS)
-
----
-
-# 👨‍💻 Author
-
-**Gajendra Punekar**
-
-MCA Graduate | DevOps Engineer | AWS | Docker | GitHub Actions | Linux | FastAPI
-
-🌐 Portfolio: https://gajendra.online
-
-GitHub: https://github.com/<your-github-username>
-
-LinkedIn: https://linkedin.com/in/<your-linkedin-profile>
 
 ---
 
