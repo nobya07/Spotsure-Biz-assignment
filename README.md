@@ -172,7 +172,7 @@ Scaling Policy
 | Configuration | Value |
 |--------------|-------|
 | Domain | https://gajendra.online |
-| DNS Target | AWS Application Load Balancer |
+| DNS Target | spotsure-alb-1360286395.ap-south-1.elb.amazonaws.com |
 
 ---
 
